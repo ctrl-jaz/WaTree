@@ -1,0 +1,45 @@
+h2, p{
+    font-size: larger;
+    background-color:#A3C0A7;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+h2{
+    font-size: x-large;
+}
+body{background-color: #A3C0A7;
+text-align: center;}
+button{
+    background-color: rgb(199, 143, 80);
+    padding: 5px;
+    font-size: smaller;
+    font-size: x-large;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 7px;
+}
+div{
+    margin-left: 75%;
+    margin-right: 0%;
+}
+
+img{
+    border-radius: 7px;
+    filter: opacity(80%);
+}
+p2{
+    width: fit-content;
+    color: #33251a;
+    font-size: larger;
+    padding: 5px;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+#contact{width: fit-content;
+background-color: blue;
+margin-left: auto;
+margin-right: auto;
+}

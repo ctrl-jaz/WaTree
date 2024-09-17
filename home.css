@@ -1,0 +1,45 @@
+body, head{
+    background-color: #A3C0A7;
+}
+img{
+    filter:opacity(75%);
+}
+p{
+    font-size: x-large;
+}
+h1{
+    font-size: 500%;
+}
+div{
+    margin-left: 65%;
+    margin-right: 0%;
+    font-size: x-large;
+    width: fit-content;
+    height: fit-content;
+    padding: 20px;
+}
+button{
+    background-color: rgb(199, 143, 80);
+    padding: 10px;
+    font-size: large;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(199, 143, 80, 0.836);
+}
+p2{
+    background-color: beige;
+    color: #513C2C;
+    height: fit-content;
+    font-size: x-large;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+.profile, .aboutus{
+  font-size: large;
+}
+a{
+    text-decoration: none;
+}
